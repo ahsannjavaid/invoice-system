@@ -15,6 +15,8 @@ To run the Invoice System application, follow these steps:
 1. Navigate to the `dist` folder located within the project directory.
 2. Locate the `ui-crud2.jar` file.
 3. Double-click the `ui-crud2.jar` file to run the application.
+**NOTE:** First **Add Item** then perform other operations through **View Items**.
+
 
 ## Usage
 
