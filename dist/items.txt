@@ -1,0 +1,6 @@
+Egg`30`13
+Bread`120`1
+Orange`10`12
+Chocolate`40`2
+Pizza`1050`3
+Burger`350`3
